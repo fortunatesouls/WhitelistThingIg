@@ -1,0 +1,1 @@
+setclipboard(syn.crypt.hash(game:GetService("RbxAnalyticsService"):GetClientId(), data))
