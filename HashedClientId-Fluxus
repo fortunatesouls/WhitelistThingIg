@@ -1,0 +1,1 @@
+setclipboard(fluxus.crypt.hash(game:GetService("RbxAnalyticsService"):GetClientId(), data))
